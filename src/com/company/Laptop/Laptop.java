@@ -11,7 +11,7 @@ public class Laptop {
         System.out.println(brand + color + " " + hdd + " " + ram + " " + graphicCard + " >>> " + " Power on");
     }
     public void powerOff(){
-        System.out.println(brand + color + hdd+ " " + ram + " " + graphicCard + " >>> " + " Power off!!!");
+        System.out.println(brand + color + " " + hdd+ " " + ram + " " + graphicCard + " >>> " + " Power off!!!");
     }
 
 
